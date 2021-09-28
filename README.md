@@ -1,8 +1,6 @@
 # Lucky Birthday
 
-
-
-<a href="">
+[lucky birthday live](https://birthday-luck-predictor.netlify.app/)
 
 ## Features
 
